@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.ipynb": "jupyter",
+    "*.inc": "c",
+    "*.ipp": "c",
+    "*.tcc": "c",
+    "fstream": "c",
+    "random": "c"
+  }
+}
